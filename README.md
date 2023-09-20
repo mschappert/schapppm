@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schapppm
-- 👀 I’m interested in ... workflow, GIS, geography, ecology, landscape
-- 🌱 I’m currently learning ... R
+- 👀 I’m interested in ... workflow, GIS, geography, ecology, landscape heterogenity, conservation, R
+- 🌱 I’m currently learning ... Python
 
 <!---
 schapppm/schapppm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
