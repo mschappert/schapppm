@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schapppm
+- 👋 Hi, I’m @mschappert
 - 👀 I’m interested in ... workflow, GIS, geography, ecology, landscape heterogenity, conservation, R
 - 🌱 I’m currently learning ... Python
 
